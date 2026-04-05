@@ -41,7 +41,7 @@ I'm a developer focused on building interactive web applications and exploring M
 ---
 
 ### 🐍 Contribution Activity
-![Snake animation]([REPLACE_WITH_SNAKE_GIF_PATH])
+![Snake animation]([[REPLACE_WITH_SNAKE_GIF_PATH](https://raw.githubusercontent.com/RahulSingh5952/RahulSingh5952/output/github-contribution-grid-snake.svg)])
 
 ---
 
